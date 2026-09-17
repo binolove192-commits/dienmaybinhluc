@@ -1,0 +1,6 @@
+{
+  "name": "Điện Máy Điện Lạnh Bình Lực",
+  "description": "Cửa hàng điện máy, điều hòa, tủ lạnh, tivi và thiết bị gia dụng chính hãng Bình Lực tại Đà Nẵng & Quảng Nam",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
